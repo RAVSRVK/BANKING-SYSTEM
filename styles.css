@@ -1,0 +1,39 @@
+.container-fluid {
+  padding: 100px;
+  background-color: #00d9ffd3;
+
+}
+.navbar {
+  background-color: #3eb7f0;
+}
+.nav-item a {
+  color: red;
+}
+p {
+  font-family: "Lobster", cursive;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3,
+h5 {
+  text-align: center;
+  font-family: "Slabo 27px", serif;
+}
+.card .iconify {
+  width: 60px;
+  height: 60px;
+  color: red;
+}
+.card {
+  background-color: #000;
+  color: #630f63;
+  margin: 10px;
+}
+.container {
+  background-color: palevioletred;
+  color: white;
+}
